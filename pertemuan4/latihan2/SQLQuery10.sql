@@ -1,0 +1,2 @@
+SELECT * namadosen
+WHERE jadwalmatakuliah
